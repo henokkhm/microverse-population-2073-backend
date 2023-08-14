@@ -1,0 +1,256 @@
+{
+  "region": "Latin America",
+  "populationIn2073": 733456898,
+  "countries": [
+    {
+      "id": "602c49ad-1bea-4a9f-8fdb-55f2f7b308e8",
+      "name": "Brazil",
+      "populationIn2073": 216455975
+    },
+    {
+      "id": "e65afbf0-9414-4636-9ea8-ba750b2e8539",
+      "name": "Mexico",
+      "populationIn2073": 137737696
+    },
+    {
+      "id": "4a3ed4b1-190f-4e3f-9c3d-e3788cb06f8d",
+      "name": "Colombia",
+      "populationIn2073": 54258967
+    },
+    {
+      "id": "1af879af-a259-4b8e-9c8c-b716d92b9636",
+      "name": "Argentina",
+      "populationIn2073": 5184574
+    },
+    {
+      "id": "87279523-ef5e-46ba-b038-cbe7bb565190",
+      "name": "Peru",
+      "populationIn2073": 44159822
+    },
+    {
+      "id": "1123ddba-62a2-486c-ad2f-a4b5e235b11b",
+      "name": "Venezuela",
+      "populationIn2073": 37365342
+    },
+    {
+      "id": "93ed491e-eedc-49b0-95cb-bf7866c34b4c",
+      "name": "Guatemala",
+      "populationIn2073": 27132903
+    },
+    {
+      "id": "fc46690c-1ba6-4142-a47f-104ca1790529",
+      "name": "Ecuador",
+      "populationIn2073": 23165626
+    },
+    {
+      "id": "2d5ea4ca-3867-404d-a693-7ba51adf8987",
+      "name": "Chile",
+      "populationIn2073": 19454826
+    },
+    {
+      "id": "c086d310-9ce0-456d-9c11-bc2cb1c5bd87",
+      "name": "Bolivia",
+      "populationIn2073": 18507777
+    },
+    {
+      "id": "ed7d7a31-471c-4466-9e5d-827fde149af5",
+      "name": "Haiti",
+      "populationIn2073": 16361662
+    },
+    {
+      "id": "62ce019b-5425-4e95-afb9-af5910c3522a",
+      "name": "Honduras",
+      "populationIn2073": 1555987
+    },
+    {
+      "id": "bb1b65d0-cdfd-4a4b-8c15-d39e16edd279",
+      "name": "Dominican Republic",
+      "populationIn2073": 13265516
+    },
+    {
+      "id": "98784836-6eb7-4075-86fe-6459da41604f",
+      "name": "Nicaragua",
+      "populationIn2073": 969001
+    },
+    {
+      "id": "a0de3e87-1071-4e04-b8f9-e5fc97fab2ea",
+      "name": "Paraguay",
+      "populationIn2073": 9063627
+    },
+    {
+      "id": "f4a024ca-6be7-4b05-85a1-7a6eed18026a",
+      "name": "Cuba",
+      "populationIn2073": 830196
+    },
+    {
+      "id": "c73365d1-3f56-4c03-b337-5f6d28c519d8",
+      "name": "Panama",
+      "populationIn2073": 6204562
+    },
+    {
+      "id": "2b4f3af7-f35d-4d61-a102-bb50a10302b2",
+      "name": "El Salvador",
+      "populationIn2073": 5972745
+    },
+    {
+      "id": "4ac67624-74bf-4d9e-aa2f-7944c0312133",
+      "name": "Costa Rica",
+      "populationIn2073": 5387717
+    },
+    {
+      "id": "302ed489-928a-4fec-92f1-573c2b45ab5d",
+      "name": "Uruguay",
+      "populationIn2073": 3003764
+    },
+    {
+      "id": "614644ba-5370-4771-b455-1bab4e35ae2d",
+      "name": "Puerto Rico",
+      "populationIn2073": 206642
+    },
+    {
+      "id": "3f74825b-f5e9-410c-9b40-c8a419475414",
+      "name": "Jamaica",
+      "populationIn2073": 1810977
+    },
+    {
+      "id": "c4cb69ea-354f-4040-a6e3-4f9110b7cb2e",
+      "name": "Trinidad and Tobago",
+      "populationIn2073": 1295905
+    },
+    {
+      "id": "c05d68be-5b77-41d3-8484-792e68f02b50",
+      "name": "Guyana",
+      "populationIn2073": 817782
+    },
+    {
+      "id": "d326f1c7-e61e-4df8-9bfd-49e3702d9935",
+      "name": "Suriname",
+      "populationIn2073": 744021
+    },
+    {
+      "id": "a4373a37-fc34-41e4-8090-adcdcb10a08c",
+      "name": "French Guiana",
+      "populationIn2073": 724448
+    },
+    {
+      "id": "ea20ac54-2d3e-42f3-ae83-74d56d82225b",
+      "name": "Belize",
+      "populationIn2073": 582087
+    },
+    {
+      "id": "870725f4-e5a4-4e80-ae60-3ea26fedc9e2",
+      "name": "Bahamas",
+      "populationIn2073": 436427
+    },
+    {
+      "id": "424b135b-ecd4-4750-ad09-472828c66169",
+      "name": "Guadeloupe",
+      "populationIn2073": 357524
+    },
+    {
+      "id": "c0f1a5fa-40ad-40d4-9661-c7700081cf5a",
+      "name": "Martinique",
+      "populationIn2073": 278832
+    },
+    {
+      "id": "53699b16-9c26-4906-8287-73e4ed347082",
+      "name": "Barbados",
+      "populationIn2073": 239481
+    },
+    {
+      "id": "42a593f3-9138-40e1-a7ed-b91f4c4473a3",
+      "name": "Curaçao",
+      "populationIn2073": 205043
+    },
+    {
+      "id": "1e8503ba-208a-4c33-8bec-50fae409082f",
+      "name": "Saint Lucia",
+      "populationIn2073": 155019
+    },
+    {
+      "id": "d57ca929-5bfc-4b3c-9805-b191aa650a05",
+      "name": "Grenada",
+      "populationIn2073": 13211
+    },
+    {
+      "id": "6fd093e3-6837-47e5-9a21-f3de43098ede",
+      "name": "Saint Vincent and the Grenadines",
+      "populationIn2073": 90854
+    },
+    {
+      "id": "1559b8de-3d9a-4305-ad6a-d5365f4d3086",
+      "name": "Antigua and Barbuda",
+      "populationIn2073": 90822
+    },
+    {
+      "id": "30fed984-f717-45b7-8db9-072ecbcc63aa",
+      "name": "Aruba",
+      "populationIn2073": 77812
+    },
+    {
+      "id": "07ffa90f-1746-4c5c-9c30-ee1e0e7649ff",
+      "name": "Cayman Islands",
+      "populationIn2073": 76582
+    },
+    {
+      "id": "083da1db-2b74-442e-8a4f-a714f2d5663c",
+      "name": "Dominica",
+      "populationIn2073": 66858
+    },
+    {
+      "id": "429bd6dd-fa47-474b-be84-d34a1d71ea17",
+      "name": "United States Virgin Islands",
+      "populationIn2073": 59115
+    },
+    {
+      "id": "170043c2-4119-45b5-ad5c-bd8645244478",
+      "name": "Turks and Caicos Islands",
+      "populationIn2073": 5388
+    },
+    {
+      "id": "5b7d664d-5992-47fe-9823-181ed4be5034",
+      "name": "Saint Kitts and Nevis",
+      "populationIn2073": 42295
+    },
+    {
+      "id": "02bc106a-6215-44a3-b12a-5beb3754df70",
+      "name": "Saint Martin (French part)",
+      "populationIn2073": 34487
+    },
+    {
+      "id": "4b89db90-e699-46d5-bc86-bef79b4e2777",
+      "name": "British Virgin Islands",
+      "populationIn2073": 33413
+    },
+    {
+      "id": "32680985-a95d-470b-b777-51d52af6fda7",
+      "name": "Sint Maarten (Dutch part)",
+      "populationIn2073": 33134
+    },
+    {
+      "id": "d8b14105-9c87-4c3a-9de0-8bd6d3ba3a30",
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "populationIn2073": 28621
+    },
+    {
+      "id": "01186f05-726f-4523-8777-e8b44aa63761",
+      "name": "Anguilla",
+      "populationIn2073": 12583
+    },
+    {
+      "id": "e2f68476-0c39-45ef-8418-7dd206e106b7",
+      "name": "Saint Barthélemy",
+      "populationIn2073": 781
+    },
+    {
+      "id": "ad04c784-9c02-4a14-b146-f0a247b0fa56",
+      "name": "Falkland Islands (Malvinas)",
+      "populationIn2073": 326
+    },
+    {
+      "id": "464e600e-18ad-4750-8345-a74ab23882a0",
+      "name": "Montserrat",
+      "populationIn2073": 3189
+    }
+  ]
+}
