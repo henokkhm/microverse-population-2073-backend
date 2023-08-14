@@ -1,0 +1,256 @@
+{
+  "region": "Europe",
+  "populationIn2073": 641911827,
+  "countries": [
+    {
+      "id": "8994e670-5f22-4194-86f2-16e8da0fa4a2",
+      "name": "Russian Federation",
+      "populationIn2073": 121255738
+    },
+    {
+      "id": "7fdcffdc-b7d4-4b19-a372-46bd30f836c0",
+      "name": "Germany",
+      "populationIn2073": 73367272
+    },
+    {
+      "id": "57e67aef-59b5-4866-bc67-ec5f23ce3d92",
+      "name": "United Kingdom",
+      "populationIn2073": 71625759
+    },
+    {
+      "id": "13fd5e4b-5fa2-4430-9c56-d4616faa59cc",
+      "name": "France",
+      "populationIn2073": 63708113
+    },
+    {
+      "id": "6312ae12-d2b4-4b8c-ba2a-e75b8cf002bd",
+      "name": "Italy",
+      "populationIn2073": 43457819
+    },
+    {
+      "id": "7f4bc0e9-29f5-4e10-b727-e8cded493569",
+      "name": "Spain",
+      "populationIn2073": 37060803
+    },
+    {
+      "id": "d1ae33f2-08a5-4cb6-a4b7-7b21612ba18c",
+      "name": "Poland",
+      "populationIn2073": 29334521
+    },
+    {
+      "id": "f888b8f9-d3aa-48a2-b2f1-8dc292bff2c6",
+      "name": "Ukraine",
+      "populationIn2073": 26143811
+    },
+    {
+      "id": "9948aba6-29a0-4821-a15c-2ce3c90f1cff",
+      "name": "Netherlands",
+      "populationIn2073": 17375318
+    },
+    {
+      "id": "9bc5130b-f4f0-41df-b9b3-832e399e3f71",
+      "name": "Romania",
+      "populationIn2073": 15234602
+    },
+    {
+      "id": "93057617-bc55-4b19-88a6-55665b52308d",
+      "name": "Sweden",
+      "populationIn2073": 12616126
+    },
+    {
+      "id": "05b0b612-89ad-4e2d-ad94-14abfffaff99",
+      "name": "Belgium",
+      "populationIn2073": 11851443
+    },
+    {
+      "id": "e1174fe1-187b-4bb6-8cbf-eac3904ef4ea",
+      "name": "Czechia",
+      "populationIn2073": 10597968
+    },
+    {
+      "id": "05d58a17-20ec-4384-acfc-217b2f9163ab",
+      "name": "Switzerland",
+      "populationIn2073": 10011245
+    },
+    {
+      "id": "542b89a6-61dd-4cff-b75e-8b48d0db87b8",
+      "name": "Austria",
+      "populationIn2073": 8406876
+    },
+    {
+      "id": "75544cd8-af68-4415-901d-a0348d931727",
+      "name": "Portugal",
+      "populationIn2073": 79604
+    },
+    {
+      "id": "a0a522e2-70d3-4c8d-a2d7-5948f8a85e02",
+      "name": "Hungary",
+      "populationIn2073": 784898
+    },
+    {
+      "id": "2db5efaf-2d2f-4d6c-a642-9948cd62364c",
+      "name": "Greece",
+      "populationIn2073": 7683375
+    },
+    {
+      "id": "76314c8f-c1f0-41e0-baa2-dfcb50f75f13",
+      "name": "Belarus",
+      "populationIn2073": 7379108
+    },
+    {
+      "id": "3cfdc190-e172-4253-b02f-db4eea4f71ba",
+      "name": "Norway",
+      "populationIn2073": 6810442
+    },
+    {
+      "id": "122362bd-c841-4b47-abf9-d1b586e2d6ce",
+      "name": "Denmark",
+      "populationIn2073": 6777822
+    },
+    {
+      "id": "3973b88b-7506-4b2b-b1d2-4e2d25ad2ac6",
+      "name": "Ireland",
+      "populationIn2073": 5768491
+    },
+    {
+      "id": "422f883d-98c4-41e7-a8a9-0175c3b4bd0d",
+      "name": "Finland",
+      "populationIn2073": 5290946
+    },
+    {
+      "id": "812ae451-5a13-4463-a2b6-627d96f1a187",
+      "name": "Slovakia",
+      "populationIn2073": 4536369
+    },
+    {
+      "id": "45545149-f54a-4b47-8336-c39f23005147",
+      "name": "Serbia",
+      "populationIn2073": 4527233
+    },
+    {
+      "id": "083728c9-4325-4824-8deb-60862097c8ad",
+      "name": "Bulgaria",
+      "populationIn2073": 4004963
+    },
+    {
+      "id": "0a4a9749-8b4e-442b-856c-f4db8c081499",
+      "name": "Republic of Moldova",
+      "populationIn2073": 2747689
+    },
+    {
+      "id": "d1011cde-b3a0-4103-8942-f124a7617d9d",
+      "name": "Croatia",
+      "populationIn2073": 2734974
+    },
+    {
+      "id": "6f9330bc-0410-4516-9170-6d7d71300bc4",
+      "name": "Bosnia and Herzegovina",
+      "populationIn2073": 2252952
+    },
+    {
+      "id": "c7a19602-ebfc-4865-af6b-3bc627b9dad3",
+      "name": "Albania",
+      "populationIn2073": 190229
+    },
+    {
+      "id": "759199f5-6be5-437d-b24d-ebf333998683",
+      "name": "Lithuania",
+      "populationIn2073": 1819632
+    },
+    {
+      "id": "fc7a4631-337f-4ae3-aab2-57546e0dfac8",
+      "name": "Slovenia",
+      "populationIn2073": 1811011
+    },
+    {
+      "id": "e7eb953c-e1f0-46d9-9c70-a900eca520e8",
+      "name": "North Macedonia",
+      "populationIn2073": 1599395
+    },
+    {
+      "id": "145ea6fc-70c3-4c2f-823a-3e7b13f927f1",
+      "name": "Kosovo",
+      "populationIn2073": 1422178
+    },
+    {
+      "id": "29404ae7-7663-40dd-ad57-13a603987da0",
+      "name": "Latvia",
+      "populationIn2073": 1177364
+    },
+    {
+      "id": "bb00311a-f37f-4093-8d09-632dbb940509",
+      "name": "Estonia",
+      "populationIn2073": 1008423
+    },
+    {
+      "id": "30010a56-d873-4407-a640-b2269352c12a",
+      "name": "Luxembourg",
+      "populationIn2073": 83228
+    },
+    {
+      "id": "ce1f8452-1df6-4446-a73d-00866eba7f31",
+      "name": "Montenegro",
+      "populationIn2073": 521293
+    },
+    {
+      "id": "70305b89-82e1-469d-9d1d-79b920d71406",
+      "name": "Malta",
+      "populationIn2073": 473676
+    },
+    {
+      "id": "b66196f7-d093-411a-9604-bac33be674f0",
+      "name": "Iceland",
+      "populationIn2073": 401481
+    },
+    {
+      "id": "73d70ac8-8817-4f29-8a85-b7506e86f249",
+      "name": "Jersey",
+      "populationIn2073": 148062
+    },
+    {
+      "id": "7b48b0d2-1679-49d4-bdac-84801c05c0b9",
+      "name": "Isle of Man",
+      "populationIn2073": 86041
+    },
+    {
+      "id": "70fb94c1-5a79-4276-b46d-eca44237d93e",
+      "name": "Andorra",
+      "populationIn2073": 69376
+    },
+    {
+      "id": "d18664bd-7203-45e1-9a27-5287e2ae55be",
+      "name": "Faroe Islands",
+      "populationIn2073": 64391
+    },
+    {
+      "id": "451747c0-6a13-4402-a507-fd934eb8c514",
+      "name": "Guernsey",
+      "populationIn2073": 62805
+    },
+    {
+      "id": "e1e56233-0ae4-4da8-a447-2c9005202ee5",
+      "name": "Monaco",
+      "populationIn2073": 42605
+    },
+    {
+      "id": "e5a865ff-ead8-4b33-97a5-f1049532b16f",
+      "name": "Liechtenstein",
+      "populationIn2073": 41435
+    },
+    {
+      "id": "d7550c28-d835-4591-aeed-15ae4b17bafa",
+      "name": "Gibraltar",
+      "populationIn2073": 27983
+    },
+    {
+      "id": "c0733902-143f-41b9-8050-4ad1b66dd8e1",
+      "name": "San Marino",
+      "populationIn2073": 27954
+    },
+    {
+      "id": "3aefac97-8d43-48d0-9671-b24bfe4a2fec",
+      "name": "Holy See",
+      "populationIn2073": 994
+    }
+  ]
+}

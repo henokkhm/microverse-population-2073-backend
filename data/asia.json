@@ -1,0 +1,261 @@
+{
+  "region": "Asia",
+  "populationIn2073": 5174232028,
+  "countries": [
+    {
+      "id": "1a43497f-1e47-4095-9e8c-72d9141b5d4b",
+      "name": "India",
+      "populationIn2073": 168404406
+    },
+    {
+      "id": "49943bfc-c183-484e-be45-17468eb39661",
+      "name": "China",
+      "populationIn2073": 1056989242
+    },
+    {
+      "id": "2920d9fa-57eb-404c-b4fc-647039d43374",
+      "name": "Pakistan",
+      "populationIn2073": 44714003
+    },
+    {
+      "id": "e51ee391-d7b4-4b08-988b-596e461da5dc",
+      "name": "Indonesia",
+      "populationIn2073": 316848199
+    },
+    {
+      "id": "496883b7-d3bc-462b-be8f-ab9e7af07252",
+      "name": "Bangladesh",
+      "populationIn2073": 203435449
+    },
+    {
+      "id": "6a18414b-46fe-4b2e-826d-2b1989d967b3",
+      "name": "Philippines",
+      "populationIn2073": 176445753
+    },
+    {
+      "id": "8e2f0305-0e93-48c4-bf1b-8ddf1df9c153",
+      "name": "Viet Nam",
+      "populationIn2073": 102332502
+    },
+    {
+      "id": "860aa2f1-481b-40ec-9547-ae7b90578e08",
+      "name": "Afghanistan",
+      "populationIn2073": 96790432
+    },
+    {
+      "id": "a8b7e64c-1932-4ac6-a12b-8633471fe67b",
+      "name": "Iraq",
+      "populationIn2073": 95538606
+    },
+    {
+      "id": "2f44c4c6-504b-4593-9db2-f55cfc3bf5f8",
+      "name": "Türkiye",
+      "populationIn2073": 93180187
+    },
+    {
+      "id": "f4e358cc-ed21-4589-a928-5ace927d1115",
+      "name": "Iran",
+      "populationIn2073": 93078779
+    },
+    {
+      "id": "e428dda3-cdd5-44ff-940b-181eb1ef89fc",
+      "name": "Japan",
+      "populationIn2073": 87383716
+    },
+    {
+      "id": "11a3e9f9-f555-48cf-a225-22f4429dbf2d",
+      "name": "Yemen",
+      "populationIn2073": 6785766
+    },
+    {
+      "id": "972727b9-8e63-49c5-aa99-9c5d175c651b",
+      "name": "Myanmar",
+      "populationIn2073": 58046728
+    },
+    {
+      "id": "57744328-13e6-4e0a-ae3f-eaf4d21a8725",
+      "name": "Thailand",
+      "populationIn2073": 57154036
+    },
+    {
+      "id": "382fcffd-fa74-463a-8b94-22765beb6772",
+      "name": "Saudi Arabia",
+      "populationIn2073": 50680371
+    },
+    {
+      "id": "c0f2c0eb-661e-4e28-94e6-8b7f02d89ace",
+      "name": "Uzbekistan",
+      "populationIn2073": 49810903
+    },
+    {
+      "id": "e66d7707-6c42-4887-b426-dabde9f07a0b",
+      "name": "Syrian Arab Republic",
+      "populationIn2073": 43629334
+    },
+    {
+      "id": "70a04e1c-95e9-4faa-b8a5-789ac815ec55",
+      "name": "Malaysia",
+      "populationIn2073": 42073667
+    },
+    {
+      "id": "27678b9e-f257-486f-b551-d6935a116d82",
+      "name": "Nepal",
+      "populationIn2073": 38382319
+    },
+    {
+      "id": "b5c40386-e87a-4dd2-9ed1-b76c9b7be254",
+      "name": "Republic of Korea",
+      "populationIn2073": 34736192
+    },
+    {
+      "id": "58cc3a9a-b347-492b-9641-c29fd0dd1f5e",
+      "name": "Kazakhstan",
+      "populationIn2073": 30029843
+    },
+    {
+      "id": "1ea3a373-8ed8-4182-92f6-3dd3a9073254",
+      "name": "Dem. People's Republic of Korea",
+      "populationIn2073": 23477823
+    },
+    {
+      "id": "c23ae9cb-5097-4c43-98db-85e8aaeb4b2c",
+      "name": "Cambodia",
+      "populationIn2073": 20716503
+    },
+    {
+      "id": "02006b20-0e2a-408a-9089-08e6c7425ca7",
+      "name": "Sri Lanka",
+      "populationIn2073": 19355275
+    },
+    {
+      "id": "bbcd28d0-5d92-4cd6-8409-0ce0cb4fbd5d",
+      "name": "China, Taiwan Province of China",
+      "populationIn2073": 18864519
+    },
+    {
+      "id": "ac2f7615-fd17-4fbf-b28d-57ec72bc3ece",
+      "name": "Tajikistan",
+      "populationIn2073": 18465957
+    },
+    {
+      "id": "8af63903-70e7-4181-a6f9-2512bc356507",
+      "name": "Jordan",
+      "populationIn2073": 17147629
+    },
+    {
+      "id": "0c65e676-e78a-4eaf-8a63-22123414b255",
+      "name": "Israel",
+      "populationIn2073": 15824428
+    },
+    {
+      "id": "7349e65a-b6ec-4675-b7b6-59f3414b7238",
+      "name": "United Arab Emirates",
+      "populationIn2073": 12562278
+    },
+    {
+      "id": "bab44900-2ee1-4673-8d24-3d647eb47255",
+      "name": "State of Palestine",
+      "populationIn2073": 11284105
+    },
+    {
+      "id": "67500320-99da-4c7f-97f3-b447f6b05a18",
+      "name": "Kyrgyzstan",
+      "populationIn2073": 11052002
+    },
+    {
+      "id": "aab9f3cf-0b68-43b4-aa1a-4cf08b697d01",
+      "name": "Lao People's Democratic Republic",
+      "populationIn2073": 10322582
+    },
+    {
+      "id": "384d192b-ee35-416d-94fc-72698bea9bb2",
+      "name": "Azerbaijan",
+      "populationIn2073": 9877701
+    },
+    {
+      "id": "2445b00a-ab82-43e5-9a8d-90bbcd0af887",
+      "name": "Turkmenistan",
+      "populationIn2073": 8874258
+    },
+    {
+      "id": "f3f14407-4128-4c27-a59f-b9e7f1538a8e",
+      "name": "Oman",
+      "populationIn2073": 7269982
+    },
+    {
+      "id": "4f20acd8-7ca0-4531-98c9-14697b937c71",
+      "name": "Singapore",
+      "populationIn2073": 5874478
+    },
+    {
+      "id": "0a1c50e2-a8ae-44af-84ed-cc008e91f8f7",
+      "name": "China, Hong Kong SAR",
+      "populationIn2073": 5854352
+    },
+    {
+      "id": "35427eb6-11a4-47b4-b631-68a2fc850290",
+      "name": "Mongolia",
+      "populationIn2073": 5030747
+    },
+    {
+      "id": "6025048d-8c9b-4620-beb8-309b296ff9b5",
+      "name": "Lebanon",
+      "populationIn2073": 4933308
+    },
+    {
+      "id": "ddeae111-a7c0-4361-bfc1-b2c6451eb966",
+      "name": "Kuwait",
+      "populationIn2073": 4863305
+    },
+    {
+      "id": "52d54ee7-a53b-4f20-a4c7-d7c3d13e7b2d",
+      "name": "Qatar",
+      "populationIn2073": 377375
+    },
+    {
+      "id": "d9c1e484-aba5-49b1-b63b-833b692bff61",
+      "name": "Georgia",
+      "populationIn2073": 2953405
+    },
+    {
+      "id": "4b4a17be-703c-41fb-b4da-a7e20f097b47",
+      "name": "Armenia",
+      "populationIn2073": 2187461
+    },
+    {
+      "id": "b26cc06e-e73a-464f-bf4f-0cf5e9d7c1c4",
+      "name": "Timor-Leste",
+      "populationIn2073": 1961779
+    },
+    {
+      "id": "c0dc31c7-9767-4e07-9283-aab54af8b21b",
+      "name": "Bahrain",
+      "populationIn2073": 1922337
+    },
+    {
+      "id": "ba1189c9-4917-4b51-8a64-9f06fee96ce6",
+      "name": "Cyprus",
+      "populationIn2073": 1382981
+    },
+    {
+      "id": "6466d715-fdf9-440a-9d3c-cd2d79d8f571",
+      "name": "China, Macao SAR",
+      "populationIn2073": 958643
+    },
+    {
+      "id": "8e360b41-03ee-4c6f-aab6-5aef8b0b4691",
+      "name": "Bhutan",
+      "populationIn2073": 816128
+    },
+    {
+      "id": "8850d1b6-76ce-4f87-8453-366cf01e4bda",
+      "name": "Maldives",
+      "populationIn2073": 551153
+    },
+    {
+      "id": "57de1835-6ced-4a89-add1-15a7e7cad3c5",
+      "name": "Brunei Darussalam",
+      "populationIn2073": 465151
+    }
+  ]
+}

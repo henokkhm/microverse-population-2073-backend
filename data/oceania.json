@@ -1,0 +1,121 @@
+{
+  "region": "Oceania",
+  "populationIn2073": 64472769,
+  "countries": [
+    {
+      "id": "b047d3ab-4615-44ec-99cd-917a333b7830",
+      "name": "Australia",
+      "populationIn2073": 35423205
+    },
+    {
+      "id": "34c07bee-b0c5-4c1b-9f82-8ce58497dc60",
+      "name": "Papua New Guinea",
+      "populationIn2073": 17379663
+    },
+    {
+      "id": "787fa4ef-727e-4449-b62c-fa09c5a93484",
+      "name": "New Zealand",
+      "populationIn2073": 6134395
+    },
+    {
+      "id": "722f0a41-0b93-464f-acf9-01f64101326a",
+      "name": "Solomon Islands",
+      "populationIn2073": 1631087
+    },
+    {
+      "id": "2e24979c-aad5-4fd5-80eb-5032acf066ed",
+      "name": "Fiji",
+      "populationIn2073": 1120744
+    },
+    {
+      "id": "804e6a80-3949-4d67-b92f-36aae37b03d5",
+      "name": "Vanuatu",
+      "populationIn2073": 795703
+    },
+    {
+      "id": "395c60fe-9ef6-4fc7-a1a3-e25830619306",
+      "name": "Samoa",
+      "populationIn2073": 392128
+    },
+    {
+      "id": "b38aa69f-05e9-48d5-bf39-9b3705ef891a",
+      "name": "New Caledonia",
+      "populationIn2073": 368715
+    },
+    {
+      "id": "0304df4c-f46a-4f9c-9413-93b8dfbf80f5",
+      "name": "French Polynesia",
+      "populationIn2073": 329339
+    },
+    {
+      "id": "20f38c1d-322a-4142-9860-1f65b924f3d8",
+      "name": "Kiribati",
+      "populationIn2073": 221435
+    },
+    {
+      "id": "f7fe1cc7-d403-480f-a08c-04e90899d2aa",
+      "name": "Guam",
+      "populationIn2073": 197383
+    },
+    {
+      "id": "a7e55454-a909-4f80-bb8c-9019a3f47485",
+      "name": "Tonga",
+      "populationIn2073": 139571
+    },
+    {
+      "id": "356fb337-0588-4195-aff2-73a94525972c",
+      "name": "Micronesia ",
+      "populationIn2073": 136356
+    },
+    {
+      "id": "515d3107-b085-4bd5-89c5-4c1d87bd07e1",
+      "name": "Marshall Islands",
+      "populationIn2073": 53292
+    },
+    {
+      "id": "07ad595e-2856-491b-86e0-f209c6975569",
+      "name": "Northern Mariana Islands",
+      "populationIn2073": 46566
+    },
+    {
+      "id": "dace4610-7e79-401b-8025-7542bcedbe65",
+      "name": "American Samoa",
+      "populationIn2073": 25419
+    },
+    {
+      "id": "ff9bb77e-ddfd-410a-838c-ace53db1267f",
+      "name": "Cook Islands",
+      "populationIn2073": 17687
+    },
+    {
+      "id": "ccb37bba-5787-4821-b554-b5212233dd5d",
+      "name": "Palau",
+      "populationIn2073": 15471
+    },
+    {
+      "id": "552fe451-d4c5-4408-b4a1-d948cc0cb52a",
+      "name": "Nauru",
+      "populationIn2073": 14656
+    },
+    {
+      "id": "ed835424-0535-4af6-a025-6cc7708e3747",
+      "name": "Tuvalu",
+      "populationIn2073": 14282
+    },
+    {
+      "id": "2b503ad5-6bdb-42dd-8083-74b487d7322d",
+      "name": "Wallis and Futuna Islands",
+      "populationIn2073": 10752
+    },
+    {
+      "id": "867167be-47c5-417a-bbd2-d6974c82cf55",
+      "name": "Tokelau",
+      "populationIn2073": 2721
+    },
+    {
+      "id": "c0e7c707-0c47-4a56-ac63-c9209715f80a",
+      "name": "Niue",
+      "populationIn2073": 2199
+    }
+  ]
+}

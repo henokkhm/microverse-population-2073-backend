@@ -1,0 +1,296 @@
+{
+  "region": "Africa",
+  "populationIn2073": 3285421933,
+  "countries": [
+    {
+      "id": "b1b38c41-cb9a-44f2-929b-366b097cfe22",
+      "name": "Nigeria",
+      "populationIn2073": 483745057
+    },
+    {
+      "id": "de871b4b-57e9-4b97-a62d-74aa3b091c40",
+      "name": "Democratic Republic of the Congo",
+      "populationIn2073": 327552071
+    },
+    {
+      "id": "6de33d15-f97e-4005-850f-8fc37f17a79c",
+      "name": "Ethiopia",
+      "populationIn2073": 278863945
+    },
+    {
+      "id": "f27aa047-b6c1-4f92-9901-d605595b2d42",
+      "name": "Egypt",
+      "populationIn2073": 188566415
+    },
+    {
+      "id": "f9ef7003-ecd8-42b9-90c7-41ca8ddf2a25",
+      "name": "Tanzania",
+      "populationIn2073": 187414736
+    },
+    {
+      "id": "c3377b9c-378f-449d-9a7e-c46d383ac761",
+      "name": "Uganda",
+      "populationIn2073": 115224516
+    },
+    {
+      "id": "9a013a4b-c940-44a2-afe2-83a8a907d4f3",
+      "name": "Sudan",
+      "populationIn2073": 11457618
+    },
+    {
+      "id": "0c260631-3a43-4ed2-b785-542f3acbfe6c",
+      "name": "Niger",
+      "populationIn2073": 112991558
+    },
+    {
+      "id": "0abee097-18e6-4162-873c-f015f875aff2",
+      "name": "Angola",
+      "populationIn2073": 103927406
+    },
+    {
+      "id": "da10613f-04a6-411d-bad6-6e7bcf1352d1",
+      "name": "Kenya",
+      "populationIn2073": 103302466
+    },
+    {
+      "id": "1fd57951-4beb-4cc9-8901-829a16cd298a",
+      "name": "Mozambique",
+      "populationIn2073": 8669628
+    },
+    {
+      "id": "edd31058-696a-4344-abb2-1c2ef33ea587",
+      "name": "South Africa",
+      "populationIn2073": 76574066
+    },
+    {
+      "id": "30570804-b295-4943-8e02-d626fa3eb1fd",
+      "name": "Côte d'Ivoire",
+      "populationIn2073": 70948725
+    },
+    {
+      "id": "3081029a-8a21-44d2-b5c0-e23fb5fa8beb",
+      "name": "Cameroon",
+      "populationIn2073": 70212613
+    },
+    {
+      "id": "4ab49268-d06e-4476-b44c-0ea8e1582488",
+      "name": "Mali",
+      "populationIn2073": 68833884
+    },
+    {
+      "id": "dc4d86ce-418f-4396-a4f3-9062173570fb",
+      "name": "Madagascar",
+      "populationIn2073": 68733587
+    },
+    {
+      "id": "b5aa63ea-72e8-4c10-8ed8-793e65199abc",
+      "name": "Algeria",
+      "populationIn2073": 65884241
+    },
+    {
+      "id": "0a570878-ec7d-42ea-91a9-67d0cf287d44",
+      "name": "Ghana",
+      "populationIn2073": 64344491
+    },
+    {
+      "id": "ad536db8-93eb-4868-848b-439402ffe58f",
+      "name": "Burkina Faso",
+      "populationIn2073": 53216949
+    },
+    {
+      "id": "54e5a8c4-375d-4b7d-99e8-3e401c6455ee",
+      "name": "Somalia",
+      "populationIn2073": 5262832
+    },
+    {
+      "id": "eaa57ef0-7d16-4fbf-ae7e-c34cd825b0c9",
+      "name": "Chad",
+      "populationIn2073": 52236039
+    },
+    {
+      "id": "0c382345-da7d-4dfb-b265-5628304c6d01",
+      "name": "Zambia",
+      "populationIn2073": 51302708
+    },
+    {
+      "id": "db07d2d0-160a-454b-a862-b3d51e098bb5",
+      "name": "Malawi",
+      "populationIn2073": 49353808
+    },
+    {
+      "id": "e211a9e6-cec6-4521-9987-836ab35b83b4",
+      "name": "Senegal",
+      "populationIn2073": 46683066
+    },
+    {
+      "id": "593df0f3-3c1c-4e45-b8ae-61edf468d3d0",
+      "name": "Morocco",
+      "populationIn2073": 46519948
+    },
+    {
+      "id": "a6d86f73-3516-43d8-b715-af552f674c87",
+      "name": "Benin",
+      "populationIn2073": 35925339
+    },
+    {
+      "id": "d0c677b9-1ad0-4e2c-8fc6-c81cd081beca",
+      "name": "Burundi",
+      "populationIn2073": 32692188
+    },
+    {
+      "id": "4c511b74-1705-4823-a0d8-7aa8e0f042c6",
+      "name": "Zimbabwe",
+      "populationIn2073": 32525962
+    },
+    {
+      "id": "393c4180-26c4-4374-b7f7-2d440c2615e7",
+      "name": "Guinea",
+      "populationIn2073": 30303616
+    },
+    {
+      "id": "f6017dc9-4c14-42d3-8ec1-899d5c7a97e2",
+      "name": "Rwanda",
+      "populationIn2073": 29353262
+    },
+    {
+      "id": "d0cbdb11-0a03-4d69-a07f-d40c5bfedd21",
+      "name": "South Sudan",
+      "populationIn2073": 21734125
+    },
+    {
+      "id": "34e16ad0-2fe7-48ca-a946-70e90a614672",
+      "name": "Togo",
+      "populationIn2073": 2123644
+    },
+    {
+      "id": "837561d3-e593-490e-a72a-38895c261bbe",
+      "name": "Sierra Leone",
+      "populationIn2073": 16233915
+    },
+    {
+      "id": "a6812f3d-3bb9-4a6b-a9b9-49ebe67f50e8",
+      "name": "Central African Republic",
+      "populationIn2073": 15964803
+    },
+    {
+      "id": "29e6fe28-7f30-4c04-87b4-0b6d6a3cbd8b",
+      "name": "Tunisia",
+      "populationIn2073": 14368065
+    },
+    {
+      "id": "acde1342-900a-4ae9-803e-3feb3f35bc43",
+      "name": "Congo",
+      "populationIn2073": 13950469
+    },
+    {
+      "id": "f409a307-c84b-44dd-9a11-d48d2d59a9f3",
+      "name": "Mauritania",
+      "populationIn2073": 12342054
+    },
+    {
+      "id": "a50588a7-3c10-4e0e-8001-e410bdea0459",
+      "name": "Liberia",
+      "populationIn2073": 11445036
+    },
+    {
+      "id": "e9e98048-7305-479e-a9bf-29cce274a2c8",
+      "name": "Libya",
+      "populationIn2073": 8855306
+    },
+    {
+      "id": "ac66e3d8-b6f3-4b5c-95b4-672de8322bad",
+      "name": "Eritrea",
+      "populationIn2073": 7561114
+    },
+    {
+      "id": "db4c830b-8927-4058-8291-4c3675a5e3fb",
+      "name": "Gambia",
+      "populationIn2073": 594263
+    },
+    {
+      "id": "f616659f-df53-4ad0-b4b2-2f14b07d5bbb",
+      "name": "Gabon",
+      "populationIn2073": 4638219
+    },
+    {
+      "id": "d20a172e-d24c-4d93-9193-ec4fd3fd4246",
+      "name": "Namibia",
+      "populationIn2073": 4551615
+    },
+    {
+      "id": "f0f0fd8d-12e1-48ef-ad0d-f16b1944a3bb",
+      "name": "Guinea-Bissau",
+      "populationIn2073": 428439
+    },
+    {
+      "id": "3f2ba2bd-4a1c-4d00-b688-329ab75f6354",
+      "name": "Botswana",
+      "populationIn2073": 4084645
+    },
+    {
+      "id": "7ff178ea-9b82-466c-bcae-02e893eee71d",
+      "name": "Equatorial Guinea",
+      "populationIn2073": 3458846
+    },
+    {
+      "id": "82f28e8c-f7ae-4c73-a9f8-14a8a6604312",
+      "name": "Lesotho",
+      "populationIn2073": 309138
+    },
+    {
+      "id": "8eb697a6-b2bc-488c-97ab-c0381df030fe",
+      "name": "Eswatini",
+      "populationIn2073": 1904068
+    },
+    {
+      "id": "49650dbc-7669-4b82-a50a-104c47a21496",
+      "name": "Djibouti",
+      "populationIn2073": 1651042
+    },
+    {
+      "id": "bb7ed24a-e23d-48d2-ab97-cd9d5280ed72",
+      "name": "Comoros",
+      "populationIn2073": 1474797
+    },
+    {
+      "id": "9fc9458e-1825-4a8e-aabf-0fad30cbdea4",
+      "name": "Réunion",
+      "populationIn2073": 1146458
+    },
+    {
+      "id": "5a07438f-5014-4353-a02b-f1622d8b9b02",
+      "name": "Mauritius",
+      "populationIn2073": 106365
+    },
+    {
+      "id": "e83be46a-621c-4c1a-830e-a6079e301912",
+      "name": "Western Sahara",
+      "populationIn2073": 994105
+    },
+    {
+      "id": "f9cc4c77-6083-4eec-aba6-a915af219fa1",
+      "name": "Mayotte",
+      "populationIn2073": 984015
+    },
+    {
+      "id": "150bfe6d-2c3a-4e60-9787-d4e1711c3968",
+      "name": "Cabo Verde",
+      "populationIn2073": 74701
+    },
+    {
+      "id": "940e9178-d52f-4cf8-bf64-acbb5c2346db",
+      "name": "Sao Tome and Principe",
+      "populationIn2073": 464569
+    },
+    {
+      "id": "7eb69210-41e5-4726-9bbd-cc16ba2f9026",
+      "name": "Seychelles",
+      "populationIn2073": 11255
+    },
+    {
+      "id": "af469f43-8614-45db-80c7-08a92c04c240",
+      "name": "Saint Helena",
+      "populationIn2073": 3175
+    }
+  ]
+}

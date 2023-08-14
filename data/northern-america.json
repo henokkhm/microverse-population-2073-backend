@@ -1,0 +1,32 @@
+{
+  "region": "Northern America",
+  "populationIn2073": 438261304,
+
+  "countries": [
+    {
+      "id": "f662c9cb-4c70-44ec-a617-08ed710bff2d",
+      "name": "United States of America",
+      "populationIn2073": 388194276
+    },
+    {
+      "id": "d5028ee5-54f2-424e-8e76-2f45bc6b42a4",
+      "name": "Canada",
+      "populationIn2073": 49968912
+    },
+    {
+      "id": "0d0826d3-5e51-4a56-be56-17fe13f32cf8",
+      "name": "Greenland",
+      "populationIn2073": 48582
+    },
+    {
+      "id": "30270099-d332-46f4-91e5-8a80d6ab3f29",
+      "name": "Bermuda",
+      "populationIn2073": 45259
+    },
+    {
+      "id": "4490b0bf-0a5f-44b5-aed8-76e663f741fe",
+      "name": "Saint Pierre and Miquelon",
+      "populationIn2073": 4275
+    }
+  ]
+}
