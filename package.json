@@ -1,0 +1,24 @@
+{
+  "name": "population-2073-api",
+  "version": "1.0.0",
+  "description": "This is a simple Node.js/Express REST API for the React.js capstone project of the Full Stack Development program offered by Microverse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henokkhm/microverse-population-2073-backend.git"
+  },
+  "keywords": [
+    "population",
+    "projection",
+    "2073"
+  ],
+  "author": "Henok Kirubel Hailemariam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henokkhm/microverse-population-2073-backend/issues"
+  },
+  "homepage": "https://github.com/henokkhm/microverse-population-2073-backend#readme"
+}
