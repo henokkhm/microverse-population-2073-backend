@@ -1,6 +1,8 @@
 {
-  "region": "Latin America",
-  "populationIn2073": 733456898,
+  "regionId": "da57f7de-7c58-44b5-8052-f27f5daa1b07",
+  "regionName": "Latin America",
+  "regionImageURL": "/images/latin-america.png",
+  "regionPopulationIn2073": 733456898,
   "countries": [
     {
       "id": "602c49ad-1bea-4a9f-8fdb-55f2f7b308e8",

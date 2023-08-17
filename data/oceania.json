@@ -1,6 +1,8 @@
 {
-  "region": "Oceania",
-  "populationIn2073": 64472769,
+  "regionId": "11d94121-dd2c-47ee-a446-b3ddd61fa31a",
+  "regionName": "Oceania",
+  "regionImageURL": "/images/oceania.png",
+  "regionPopulationIn2073": 64472769,
   "countries": [
     {
       "id": "b047d3ab-4615-44ec-99cd-917a333b7830",
