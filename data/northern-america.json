@@ -1,7 +1,8 @@
 {
-  "region": "Northern America",
-  "populationIn2073": 438261304,
-
+  "regionId": "cc7e48b7-c558-42dd-a889-d80a0ff9a377",
+  "regionName": "Northern America",
+  "regionImageURL": "/images/northern-america.png",
+  "regionPopulationIn2073": 438261304,
   "countries": [
     {
       "id": "f662c9cb-4c70-44ec-a617-08ed710bff2d",

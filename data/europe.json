@@ -1,6 +1,8 @@
 {
-  "region": "Europe",
-  "populationIn2073": 641911827,
+  "regionId": "3ba371eb-245a-4470-a465-85ded14872e0",
+  "regionName": "Europe",
+  "regionImageURL": "/images/europe.png",
+  "regionPopulationIn2073": 641911827,
   "countries": [
     {
       "id": "8994e670-5f22-4194-86f2-16e8da0fa4a2",

@@ -1,6 +1,8 @@
 {
-  "region": "Asia",
-  "populationIn2073": 5174232028,
+  "regionId": "bbf0577d-2cec-44e8-a8c7-a394c2fcca99",
+  "regionName": "Asia",
+  "regionImageURL": "/images/asia.png",
+  "regionPopulationIn2073": 5174232028,
   "countries": [
     {
       "id": "1a43497f-1e47-4095-9e8c-72d9141b5d4b",

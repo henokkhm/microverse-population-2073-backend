@@ -1,6 +1,8 @@
 {
-  "region": "Africa",
-  "populationIn2073": 3285421933,
+  "regionId": "46d44cfa-1781-4afd-89b7-e760af80e3b6",
+  "regionName": "Africa",
+  "regionImageURL": "/images/africa.png",
+  "regionPopulationIn2073": 3285421933,
   "countries": [
     {
       "id": "b1b38c41-cb9a-44f2-929b-366b097cfe22",
