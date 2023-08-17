@@ -25,17 +25,6 @@ app.get('/europe', (req, res) => res.json(europeData));
 app.get('/northern-america', (req, res) => res.json(northernAmericaData));
 app.get('/oceania', (req, res) => res.json(oceaniaData));
 
-
-app.get('/data1', (req, res) => {
-  const data = { message: 'Hello from endpoint 1!' };
-  res.json(data);
-});
-
-app.get('/data2', (req, res) => {
-  const data = { message: 'Greetings from endpoint 2!' };
-  res.json(data);
-});
-
 // 404 handler for non-matching routes
 app.use((req, res) => {
   res.status(404).json({ message: 'Not Found' });
